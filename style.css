@@ -1,20 +1,48 @@
 body {
-	/* Color by sech1p - github.com/sech1p */
+	/* Color by sech1p - https://github.com/sech1p */
 	background-color: #362D26;
+}
+hr {
+	width: 40%;
+}
+
+#particles-js {
+	background-color: #255;
+	z-index: 850;
+	position:relative;
+}
+
+.me {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+}
+.socials, .contact {
+	text-align: center;
+}
+
+#pic {
+	border: white;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 100%;
+	margin: 5px;
 }
 
 #name {
-	display: block;
+	float: top;
 	font-family: 'Lato', sans-serif;
 	font-size: 48px;
 	color: white;
 	margin-top: 50px;
-	align: center;
+	text-align: center;
 }
 
-.fab {
+.fab, .fas {
 	font-size: 56px;
 	color: white;
-	margin: 4px;
-	text-align: center;
+	margin: 5px;
+	margin-top: 7px;
+	margin-bottom 7px;
 }
