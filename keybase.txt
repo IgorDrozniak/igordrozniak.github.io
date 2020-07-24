@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ririsec
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://igordrozniak.github.io
+  * I am ririsec (https://keybase.io/ririsec) on keybase.
+  * I have a public key ASC6U6wVzVwjbYGzB7EOlsrHLOl_0iknxg27lTt9A_s_Zwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120657a127c084f7170c46e1ba29e5715f47f7c120da950a10129ba84e85fc4690b0a",
+      "host": "keybase.io",
+      "kid": "0120ba53ac15cd5c236d81b307b10e96cac72ce97fd22927c60dbb953b7d03fb3f670a",
+      "uid": "d82cc32776773d20e923020eb6208419",
+      "username": "ririsec"
+    },
+    "merkle_root": {
+      "ctime": 1595585640,
+      "hash": "406cd37262f28ed410e3a29ff1371f230b7de91f9826e00715d94de89130750f277085c3258a837e98272570165a2c90cc89b940050685c44cd26b8c455d8c74",
+      "hash_meta": "cb9d3621a75ba209789c544ffe3b17777d3d16d9dd61fb3d4904a2929b47e9af",
+      "seqno": 17069407
+    },
+    "service": {
+      "entropy": "kiNb7+U0KaA3z7q/zjw2th8L",
+      "hostname": "igordrozniak.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1595585698,
+  "expire_in": 504576000,
+  "prev": "c8f1570052cd433cbe03ff475efc7afa0fa951f06439b2e52ad5c39f579cf084",
+  "seqno": 49,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgulOsFc1cI22BswexDpbKxyzpf9IpJ8YNu5U7fQP7P2cKp3BheWxvYWTESpcCMcQgyPFXAFLNQzy+A/9HXvx6+g+pUfBkObLlKtXDn1ec8ITEIERLn7FjdC+n5a+HJ8qBuws61Nh2u5RX4q4jHBd4lQzAAgHCo3NpZ8RA8Gq1hQXxv1icWe3MQrt2FTqeS8oNe3r/tWyNIEFWfMe9q9MlveV++3tcYEcblIrZMcuLNPh8LbeZMzvGtTvwAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILHnfl8gNiAwv5sUt6d2LGFcl8M5rjExruUu/bL9XQg4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ririsec
+
+==================================================================
